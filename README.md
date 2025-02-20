@@ -30,6 +30,7 @@ IsSuspiciousAssembly — это небольшое консольное прил
    ```bash
    dotnet restore
    dotnet build -c Release
+   ```
 
    Вы можете Также воспользоваться Visual Studio для компиляции
 

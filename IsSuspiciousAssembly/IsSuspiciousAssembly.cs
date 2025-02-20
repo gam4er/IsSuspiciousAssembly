@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace IsSuspiciousAssembly
 {
-    class Program
+    class IsSuspiciousAssembly
     {
         /// <summary>
         /// Проверяет, что файл по указанному пути является сборкой .NET.

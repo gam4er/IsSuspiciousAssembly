@@ -5,6 +5,8 @@ VisualStudioVersion = 17.13.35806.99 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsSuspiciousAssembly", "IsSuspiciousAssembly\IsSuspiciousAssembly.csproj", "{3D892C4C-A233-4A6E-9FFC-E8FE32EA2B18}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuspiciousLibrary", "SuspiciousLibrary\SuspiciousLibrary.csproj", "{E463D75B-4DFA-4325-ADCD-F364ABBBD84A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{3D892C4C-A233-4A6E-9FFC-E8FE32EA2B18}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D892C4C-A233-4A6E-9FFC-E8FE32EA2B18}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D892C4C-A233-4A6E-9FFC-E8FE32EA2B18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E463D75B-4DFA-4325-ADCD-F364ABBBD84A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E463D75B-4DFA-4325-ADCD-F364ABBBD84A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E463D75B-4DFA-4325-ADCD-F364ABBBD84A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E463D75B-4DFA-4325-ADCD-F364ABBBD84A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

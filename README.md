@@ -31,10 +31,10 @@ IsSuspiciousAssembly — это небольшое консольное прил
    dotnet restore
    dotnet build -c Release
 
+   Вы можете Также воспользоваться Visual Studio для компиляции
+
 3. Использование
    ```bash
-   dotnet run --project IsSuspiciousAssembly.csproj -- "C:\Path\To\YourAssembly.dll"
-   # Или собранный exe файл
    .\IsSuspiciousAssembly\bin\Release\IsSuspiciousAssembly.exe "C:\Path\To\YourAssembly.dll"
 
 ## Лицензия

@@ -1,6 +1,6 @@
-# Assembly Inspector
+# IsSuspiciousAssembly
 
-Assembly Inspector — это небольшое консольное приложение на C#, использующее библиотеку [Mono.Cecil](https://www.nuget.org/packages/Mono.Cecil/), которое позволяет:
+IsSuspiciousAssembly — это небольшое консольное приложение на C#, использующее библиотеку [Mono.Cecil](https://www.nuget.org/packages/Mono.Cecil/), которое позволяет:
 
 - Проверить, является ли указанный файл действительной сборкой .NET.
 - Проанализировать метаданные сборки без её загрузки в исполняемую память (без риска выполнения потенциально вредоносного кода).

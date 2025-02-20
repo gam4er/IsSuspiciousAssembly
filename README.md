@@ -38,6 +38,6 @@ Assembly Inspector — это небольшое консольное прило
    .\IsSuspiciousAssembly\bin\Release\IsSuspiciousAssembly.exe "C:\Path\To\YourAssembly.dll"
 
 ## Лицензия
-Этот проект распространяется под лицензией MIT. См. файл LICENSE для подробностей.    
+Этот проект распространяется под лицензией GNU. См. файл LICENSE для подробностей.    
    
 
